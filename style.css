@@ -1,0 +1,28 @@
+/*
+Theme Name: Basic Responsive
+Theme URI: http://github.com/sea14/basic-responsive.git
+Description: A basic WordPress theme, repsonsive
+Author: Sharon Austin
+Author URI: http://sharon-elizabeth.com/
+Version: 1.0
+Tags: Responsive, clean
+License: GPL 2.0
+*/
+
+body{
+
+	font-family: "Georgia", Serif;
+	color: #000;
+}
+
+#header{
+
+	width: 100%;
+	background: #fff;
+}
+
+#wrapper{
+
+	width: 80%;
+	margin: 5% 10% 5% 10%;
+}
